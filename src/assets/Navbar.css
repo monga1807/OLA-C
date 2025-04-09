@@ -1,0 +1,127 @@
+
+/* Navbar Container */
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    width: 100%;
+    
+}
+
+.bg-body-tertiary {
+    background-color: #000000 !important; 
+    padding: 10px 20px;
+    display: flex;
+    /* align-items: center; */
+     /* justify-content:space-between;   */
+    flex-wrap: nowrap;
+    flex-direction: row;
+    /* margin-left: auto !important; */
+    position:sticky;
+    top: 0px;
+    overflow: hidden;
+    z-index: 1000;
+    height: 32px;
+  }
+  
+  /* Navbar Brand */
+  .navbar-brand {
+    color: #fff !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+    white-space: nowrap;
+    /* margin-right: auto; */
+    text-decoration-line: none;
+  }
+  
+  /* Navbar Links */
+  .me-auto {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    /* margin-left: auto !important; */
+    justify-content: space-between;
+    width: 100%;
+    
+  }
+  /* .first-3, .last-4 {
+    flex-grow: 1;
+} */
+  
+  .me-auto .nav-link {
+    color: #fff;
+    font-size: 1rem;
+    margin-right: 15px;
+    white-space: nowrap;
+    text-decoration: none !important;
+  }
+  
+  .me-auto .nav-link:hover {
+    color: #25D366 !important; /* WhatsApp accent color */
+    text-decoration: none !important;
+  }
+  
+  /* Dropdown Menu */
+  .basic-nav-dropdown {
+    position: relative;
+  }
+  
+  .basic-nav-dropdown .dropdown-menu {
+    background-color: #128C7E; /* Darker WhatsApp green */
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    /* right: 0; */
+  }
+  
+  .dropdown-menu .dropdown-item {
+    color: #fff !important;
+  }
+  
+  .dropdown-menu .dropdown-item:hover {
+    background-color: #25D366 !important;
+    color: #fff !important;
+  }
+  
+  /* Navbar Toggle Button (if needed in the future) */
+  .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fff;
+  }
+
+  /* .container {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    min-width: 100%;
+  } */
+
+  /* .me-auto .navbar-nav{ */
+    /* align-items: baseline; */
+   /* margin:0px; */
+    /* justify-content: space-between; */
+  /* } */
+  /* .log{
+    margin: 0;
+  } */
+  .first-3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 40px;
+    margin-left: 25px;
+  }
+.last-4{
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  margin-right: 25px;
+}
+.order{
+  color: #25D366 !important;
+}

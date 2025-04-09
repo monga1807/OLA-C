@@ -1,0 +1,393 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gentona-Regular' !important;
+}
+h1{
+    font-size: 60px;
+    font-weight:bold;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.card-s1{
+    /* display: flex;
+    background-color: beige;
+    justify-content: space-evenly ;
+    flex-direction: row;
+    overflow-inline: scroll; */
+    /* max-width: 80%; */
+    /* margin: 0 auto; */
+    /* justify-items: center;
+    align-items: center; */
+    /* overflow-x: overlay; */
+    /* scroll-behavior: smooth; */
+    /* white-space: nowrap;
+    min-height: 800px;
+    margin-top: 20px;
+    margin-bottom: 20px; */
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly ;
+    flex-direction: row;
+    overflow-inline: scroll;
+    overflow-x: overlay;
+    white-space:nowrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 800px;
+    scrollbar-width: none;
+}
+.card-s2{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly ;
+    flex-direction: row;
+    /* overflow-inline: scroll; */
+    overflow-x: overlay;
+    white-space:nowrap;
+    /* flex-wrap: wrap; */
+    /* flex-wrap: none; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 800px;
+    scrollbar-width: none;
+}
+.card-s3{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly ;
+    flex-direction: row;
+    overflow-inline: scroll;
+    overflow-x: overlay;
+    white-space:nowrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 800px;
+    scrollbar-width: none;
+}
+.card-s4{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly ;
+    flex-direction: row;
+    overflow-inline: scroll;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 800px;
+    scrollbar-width: none;
+}
+.card-s1-h{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.card-s2-h{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.card-s3-h{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.card-s4-h{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.card-s4-h h5{
+     position: absolute;
+     right: 150px;
+     color: #687986;
+ }
+ .feature {
+    background-color: black;
+    color: white;
+    /* max-width: 80%;
+    margin: 0 auto; */
+ }
+ .f-img{
+    max-width: 80%;
+    margin: 0 auto;
+ }
+ 
+ .feature .img{
+    width: 400px;
+    height: 400px;
+ }
+ .f-img-1{
+    width: 1200px;
+ }
+ .f2-img{
+    max-width: 80%;
+    margin: 0 auto;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+ }
+ .f-img-1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+ .f-img-h{
+    margin-top: 50px;
+    margin-bottom: 20px;
+ }
+ /* .e-img{
+    flex-shrink: 1;
+    
+    display: flex;
+ }
+ .e-img-1{
+    max-height: 200px;
+    max-width: 200px;
+ }
+ .e-img-2-3-4{
+    max-height: 200px;
+    max-width: 200px;
+
+ }
+ .e-img-5{
+    max-height: 200px;
+    max-width: 200px;
+ }
+ .e-img-2-3{
+    display: flex;
+    max-width: 400px;
+ } */
+
+ .e-img-h{
+    max-width: 80%;
+    margin-left: 155px;
+    font-weight: lighter;
+ }
+ .e-img {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    gap: 10px;
+    width: 80%;
+    margin: auto;
+    padding: 50px;
+  }
+  
+  .e-img-1 {
+    grid-column: span 2;
+    grid-row: span 2;
+    height: 600px;
+    width: 300px;
+  }
+  
+  .e-img-2 {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+  
+  .e-img-3 {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+  
+  .e-img-4 {
+    grid-column: span 2;
+    grid-row: span 1;
+  }
+  
+  .e-img-5 {
+    grid-column: span 1;
+    grid-row: span 2;
+    width: 300px ;
+    height: 600px;
+  }
+  
+  .e-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+  .e-img-2-3{
+    display: flex;
+    width: 600px;
+    margin-bottom: 10px;
+    gap: 10px; ;
+  }
+/* .Carous{
+    max-height:10px
+    
+} */
+.Carous {
+   width: 80%;
+   height: 195px; /* Make sure it takes full viewport height */
+   position: relative;
+   overflow: hidden; /*Prevents any unwanted overflow*/
+   margin: 0 auto;
+   margin-top: 100px;
+   border-radius: 4px;
+
+}
+
+.ola-plant-img{
+   width: 100%;
+   /* margin: 0 auto; */
+}
+  .ola-plant{
+   width: 80%;
+   margin: 0 auto;
+  }
+  .ola-plant p::after{
+   content: url(https://cdn.olaelectric.com/ev-discovery-platform/images/green_arrow_v1.svg);
+   width: 15px;
+   height: 10px;
+   margin-left: 8px;
+   margin-top: 3px;
+}
+  .ola-plant h2{
+   font-size: 50px;
+   font-weight: lighter;
+   margin-bottom: 10px;
+  }
+  .ola-plant h4{
+   font-size: 18px;
+   font-weight: 400;
+   /* margin: 15px; */
+   color: #687986;
+  }
+  .ola-plant p{
+   /* font-size: 50px; */
+   font-weight: lighter;
+   margin: 15px;
+   color: green;
+  }
+
+  .ola-factories{
+   display: flex;
+   margin: 0 auto;
+   /* margin: 0px 5px 5px 0px ; */
+   width: 100%;
+   /* background: #000; */
+  }
+
+  .ola-factories-1{
+   width:49% ;
+   /* background-color: rgb(107, 105, 105); */
+   /* padding:10px; */
+   margin-right: 10px;
+   margin-top: 10px;
+  }
+  .ola-factories-1 h2,p{
+   margin: 10px;
+  }
+  .ola-factories-2 h2,p{
+   margin: 10px;
+  }
+
+  .ola-factories-2{
+   width: 49%;
+   /* background-color: rgb(138, 138, 138); */
+   /* padding:10px; */
+   margin-left: 10px;
+   margin-top: 10px;
+  }
+.ola-factories-1-img{
+   width: 100%;
+   border-radius: 5px;
+}
+.ola-factories-2-img{
+   width: 100%;
+   border-radius: 5px;
+}
+
+.ola-stores-card{
+   display: flex;
+    background-color: white;
+    justify-content: space-evenly ;
+    flex-direction: row;
+    overflow-inline: scroll;
+    overflow-x: overlay;
+    /* white-space:nowrap; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-height: 500px;
+    scrollbar-width: none;
+    /* overflow-wrap:wrap; */
+    overflow-y: hidden;
+}
+
+.ola-stores{
+   max-width: 80%;
+    margin: 0 auto;
+}
+.ola-stores h1{
+   width: 600px;
+}
+.ola-stores h4{
+   /* width: 600px; */
+   color: #687986;
+   margin: 24px 0;
+   font-weight: 400;
+   max-width: 380px;
+   font-size: 18px;
+}
+.ola-stores h6{
+   /* width: 600px; */
+   color: green;
+   margin: 24px 0;
+   font-weight: 400;
+   max-width: 380px;
+   font-size: 18px;
+}
+.ola-stores h6::after{
+   content: url(https://cdn.olaelectric.com/ev-discovery-platform/images/green_arrow_v1.svg);
+    width: 15px;
+    height: 10px;
+    margin-left: 8px;
+    margin-top: 3px;
+  } 
+.ola-stores-card {
+   height: fit-content;
+}
+.ola-stores-card {
+   font-weight: bolder;
+   font-size: large;
+   color:#687986;
+}
+.News{
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+.news-column{
+   display: flex;
+   width: 100%;
+}
+.column1{
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+   
+}
+.column2{
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+}
+
+.News h2{
+   font-size: 45px;
+   font-weight: lighter;
+}
+
+.News h4{
+   /* font-size: 50px; */
+   font-weight: lighter;
+   margin: 15px;
+   color: green;
+  }
+
+  .News h4::after{
+   content: url(https://cdn.olaelectric.com/ev-discovery-platform/images/green_arrow_v1.svg);
+    width: 15px;
+    height: 10px;
+    margin-left: 8px;
+    margin-top: 3px;
+  } 

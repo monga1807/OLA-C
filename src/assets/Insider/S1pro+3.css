@@ -1,0 +1,116 @@
+body {
+    background-color: #f8fafc;
+  }
+  
+  /* .container {
+    padding: 2rem;
+  } */
+  
+  .img-1 img{
+    position: relative;
+    min-width: 100%;
+    /* margin: 0 auto; */
+    max-height: 900px;
+  }
+  
+.compare img{
+    max-width: 80%;
+    /* max-height: 400px; */
+    /* align-items: center; */
+    margin: 0 auto;
+    display: flex;
+}
+.img-perform{
+    grid-auto-columns: auto;
+}
+.olaS1-service-img{
+    /* display: flex; */
+    /* max-height: 100px; */
+    /* max-width: 100px; */
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly ;
+    flex-direction: row;
+    overflow-inline: scroll;
+    overflow-x: overlay;
+    white-space:nowrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* min-height: 800px; */
+    scrollbar-width: none;
+}
+.olaS1-services{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.olaS1-services img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px 12px 0 0;
+}
+.olaS1-Service-img1{
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  background: #d7d7d7;
+  text-align: center;
+  min-width: 300px;
+  margin: 10px;
+min-height: 300px;
+}
+.olaS1-Service-img2{
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  background: #d7d7d7;
+  text-align: center;
+  min-width: 300px;
+  margin: 10px;
+min-height: 300px;
+}
+.olaS1-Service-img3{
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  background: #d7d7d7;
+  text-align: center;
+  min-width: 300px;
+  margin: 10px;
+  min-height: 300px;
+}
+.performance{
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.img-perform{
+  display: flex;
+  flex-direction: row;
+  
+}
+.img-perform img{
+  /* display: flex;
+  flex-direction: row; */
+  width: 350px;
+  height: 300px;
+  padding: 20px;
+}
+.img-perform-1{
+  /* width: 100px; */
+  /* height: 100px; */
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.img-perform-2{
+  /* width: 100px; */
+  /* height: 100px; */
+  display: flex;
+  flex-direction: column;
+}
+.img-perform-3{
+  /* width: 100px; */
+  /* height: 100px; */
+  display: flex;
+  flex-direction: column;
+}

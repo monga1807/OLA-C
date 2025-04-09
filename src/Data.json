@@ -1,0 +1,186 @@
+{
+  "Card1": [
+    {
+      "index": "1",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/ola_s1pro_plus_gen3_web_image_v2.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/logo/ola_s1_pro_plus_3rd_gen_logo_v1.svg",
+      "text": "Our most powerful scooter yet",
+      "text2": "Starting at",
+      "text3": "₹5,185/month",
+      "text4": "OR",
+      "text5": "₹1,54,999",
+      "b1": "Explore S1 Pro+",
+      "b2": "Buy Now",
+      "onclick": "/S1prop3"
+      
+    },
+    {
+      "index": "2",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/ola_s1pro_gen3_web_image_v2.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/logo/ola_s1_pro_3rd_gen_logo_v1.svg",
+      "text": "Pure Power. Peak Performance",
+      "text2": "Starting at",
+      "text3": "₹3,847/month",
+      "text4": "OR",
+      "text5": "₹1,29,999",
+      "b1": "Explore S1 Pro",
+      "b2": "Buy Now",
+      "onclick": "/S1pro3"
+    },
+    {
+      "index": "3",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/ola_s1x_plus_gen3_web_image_v2.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/logo/ola_s1_x_plus_3rd_gen_logo_v1.svg",
+      "text": "Scooter for every Indian",
+      "text2": "Starting at",
+      "text3": "₹3,613/month",
+      "text4": "OR",
+      "text5": "₹1,11,999",
+      "b1": "Explore S1 X+",
+      "b2": "Buy Now",
+      "onclick": "/S1Xp3"
+    },
+    {
+      "index": "4",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/ola_s1x_gen3_web_image_v2.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gen3/logo/ola_s1_x_3rd_gen_logo_v1.svg",
+      "text": "Upgrade to electric with style",
+      "text2": "Starting at",
+      "text3": "₹2,676/month",
+      "text4": "OR",
+      "text5": "₹79,999",
+      "b1": "Explore S1 X",
+      "b2": "Buy Now",
+      "onclick": "/S1X3"
+    }
+  ],
+  "Card2": [
+    {
+      "index": "1",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/home_ipo_ola_s1_pro_web_271123.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/ipo_home_featured_ola_s1_pro_logo.svg",
+      "text": "195km Range | 0-40 km/h in 2.6 sec",
+      "text2": "Starting at",
+      "text3": "₹3,299/month",
+      "text4": "OR",
+      "text5": "₹1,34,999",
+      "b1": "Explore S1 Pro",
+      "b2": "Video Brochure",
+      "onclick": "/S1pro"
+    },
+    {
+      "index": "2",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/home_ipo_ola_s1_air_web_271123.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/ipo_home_featured_ola_s1_air_logo.svg",
+      "text": "151km Range | 0-40 km/h in 3.3 sec",
+      "text2": "Starting at",
+      "text3": "₹2,699/month",
+      "text4": "OR",
+      "text5": "₹1,07,999",
+      "b1": "Explore S1 Air",
+      "b2": "Video Brochure",
+      "onclick": "/S1Air"
+    },
+    {
+      "index": "3",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/home_ipo_ola_s1_x_web_271123.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/icons/icon_s1x_212121.svg",
+      "text": "193km Range | 0-40 km/h in 3.3 sec",
+      "text2": "Starting at",
+      "text3": "₹1,899/month",
+      "text4": "OR",
+      "text5": "₹79,999",
+      "b1": "Explore S1 X",
+      "b2": "Video Brochure",
+      "onclick": "/S1X"
+    },
+    {
+      "index": "4",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gig/s1z_product_image_product_section.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_s1z_logo_v2.svg",
+      "text": "Up to 146km Range | Up to 2 portable batteries",
+      "text2": "Introductory Price",
+      
+      "text3": "₹59,999",
+      "b1": "Explore S1 Z",
+      "b2": "Video Brochure",
+      "onclick": "/S1Z"
+    }
+  ],
+  "Card3": [
+    {
+      "index": "1",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/bike/mrx_roadster_home_web_image_v6.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_name_roadster_x_web.svg",
+      "text": "Upgrade to electric with style",
+      "text2": "Starting at",
+      
+      "text3": "₹84,999",
+      "b1": "Explore Roadster X ",
+      "b2": "Book Now",
+      "onclick": "//RoadsterX"
+    },
+    {
+      "index": "2",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_roadster_x_plus_web.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_name_roadster_x_plus_web.svg",
+      "text": "India's ultimate electric upgrade",
+      "text2": "Starting at",
+      
+      "text3": "₹1,14,999",
+      "b1": "Explore Roadster X+",
+      "b2": "Book Now",
+      "onclick": "/RoadsterXp"
+    },
+    {
+      "index": "3",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_roadster_web_v2.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_name_roadster_web.svg",
+      "text": "City limit, not your limits.",
+      "text2": "Starting at",
+      
+      "text3": "₹1,04,999",
+      "b1": "Explore Roadster",
+      "b2": "Book Now",
+      "onclick": "/Roadster"
+    },
+    {
+      "index": "4",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_roadster_pro_web_v2.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/home_ipo/future_of_motorcycle_name_roadster_pro_web.svg",
+      "text": "Tested for the road. And the racetrack.",
+      "text2": "Starting at",
+      
+      "text3": "₹1,99,999",
+      "b1": "Explore Roadster Pro",
+      "b2": "Book Now",
+      "onclick": "/RoadsterP"
+    }
+  ],
+  "Card4": [
+    {
+      "index": "1",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_gig_product_web_image.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_gig_logo_v2.svg",
+      "text": "112km Range | 25 kmph top speed | Single portable battery",
+      "text2": "Introductory price",
+      
+      "text3": "₹39,999",
+      "b1": "Explore Gig ",
+      "b2": "Reserve for ₹499",
+      "onclick": "/Gig"
+    },
+    {
+      "index": "2",
+      "image": "https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_gig_plus_product_web_image.webp",
+      "title": "https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_gig_plus_logo_v2.svg",
+      "text": "Up to 157km Range | 45 kmph top speed | Up to 2 portable batteries",
+      "text2": "Introductory price",
+      
+      "text3": "₹49,999",
+      "b1": "Explore Gig+",
+      "b2": "Reserve for ₹499",
+      "onclick": "/Gigp"
+    }
+  ]
+}

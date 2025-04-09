@@ -1,0 +1,17 @@
+.card-img1{
+    height:100px;
+    width: 177px;
+    /* width: 100px; */
+}
+/* img.card-img-top {
+    height: 100px;
+} */
+
+.card-body1{
+    width: 350px;
+}
+.card-textn{
+    width: 340px ;
+    font-size: 24px;
+    color: #18334d;
+}
