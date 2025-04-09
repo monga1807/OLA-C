@@ -1,5 +1,5 @@
 import Carousel from 'react-bootstrap/Carousel';
-import './carousel.css'
+import './Carousel.css'
 
 function CarouselP() {
   return (
