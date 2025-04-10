@@ -1,10 +1,12 @@
 import './Slide-1.css'
+import { GiHamburgerMenu } from "react-icons/gi";
 
 
 const Slide1 = () => {
     return (
       <div className='Slide1'>
         <h1>OLA</h1>
+        <GiHamburgerMenu className='burger-icon' />
         {/* <div className='S1pro3-head'>Introducing</div> */}
         {/* <div className="S1pro3-img">
           <img src="https://cdn.olaelectric.com/sites/evdp/pages/home/home_banner_roadster_x.webp" alt="" />
@@ -17,6 +19,7 @@ const Slide1 = () => {
           <button className='buttons-b-b1'> Explore S1 X </button>
           <button className='buttons-b-b2'>Book Now </button>
         </div>
+        
       </div>
     );
   };

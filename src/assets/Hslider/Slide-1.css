@@ -85,3 +85,12 @@ border-width:0px;
      align-content: center;
     justify-self:center ;
 }
+
+.burger-icon{
+    position:absolute;
+    top: 40px;
+    right: 57px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 10px;
+}

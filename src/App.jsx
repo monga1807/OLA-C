@@ -5,7 +5,7 @@ import CardP from './assets/Card'
 import CarousP from './assets/Carous'
 import Footer from './assets/Footer'
 import CardP1 from './assets/Card1'
-import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, useNavigate, Scripts } from "react-router-dom";
 import S1prop3 from './assets/Insider/S1pro+3'
 import S1Air from './assets/Insider/S1Air'
 import S1X from './assets/Insider/S1X'
@@ -24,14 +24,33 @@ import Gigp from './assets/Insider/Gig+'
 import Data from './Data.json'
 import DetailCard from './assets/Card'
 import CardP2 from './assets/Card2'
+import React, { useEffect } from "react";
+
+
+
+
 
 const Home = () => {
         const navigate = useNavigate();
-
+        useEffect(() => {
+                const script = document.createElement("script");
+                script.src = "//code.tidio.co/cir9waybic2wtbnegnuzdn4gp4rfabo6.js";
+                script.async = true;
+                document.body.appendChild(script);
+                
+                return () => {
+                    document.body.removeChild(script); // Cleanup on unmount
+                };
+            }, []);
+              
         return (
                 <>
                         <MyNav />
                         <CarouselP />
+                      
+                                {/* <img src="https://cdn.olaelectric.com/ev-discovery-platform/New-Homepage/chat.svg" alt="" className="intersted-card" onClick={openChat} /> */}
+                       
+
                         <div className="card-s1-h">
                                 <h1>Introducing Ola S1 3rd Gen portfolio</h1>
                                 <div className="card-s1">
