@@ -1,0 +1,96 @@
+.Slide3{
+    background-image: url(https://cdn.olaelectric.com/sites/evdp/pages/gen3/hp_gen3_banner_web_image_03.webp);
+    width: 100%;
+    /* height: 700px; */
+    margin: 0;
+    padding: 0;
+    background-size: cover;  /* Ensures the image covers the entire div */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+}
+.Slide3 h1{
+    margin: 0px;
+    font-size: 40px;
+    padding: 20px;
+    color: white;
+}
+.Slide3-head{
+    font-size: 16px;
+    align-content: center;
+    justify-self: center;
+    /* background-color: white; */
+    border-radius: 40px;
+      /* margin-left: 300px; */
+      margin: 10px;
+      /* width: 200px; */
+      /* height: 20px; */
+      font-size: 20px;
+      /* color: #687986; */
+      background: #B887BA4A;
+    color: #fff;
+      /* padding:10px ; */
+      padding: 5px 16px;
+      /* display: inline-block; */
+      vertical-align: top;
+      border-radius: 32px;
+      line-height: 100%;
+      letter-spacing: 0.08em;
+      text-align: center;
+    
+}
+
+.Slide3 p{
+    margin: 0px;
+    align-content: center;
+    justify-self: center;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.buttons-b-b1{
+    /* align-content: center; */
+    /* justify-self: center; */
+    /* background-color: blueviolet; */
+    height: 65px;
+    width: 270px;
+    margin: 10px;
+border-color: white;
+border-width:0px;
+}
+
+.buttons-b-b2{
+    /* align-content: center; */
+    /* justify-self: center; */
+    /* background-color: blueviolet; */
+    height: 65px;
+    width: 270px;
+    margin: 10px;
+    border-color: white;
+    border-width:0px;
+}
+
+.S1pro3-buttons{
+    /* position: absolute; */
+    bottom: 100px;
+    align-content: center;
+    justify-self: center;
+    /* background-color: rgb(66, 55, 75); */
+    display: table;
+    margin-top: 250px;
+}
+
+.S1pro3-img{
+    align-content: center;
+    justify-self: center;
+}
+.S1pro3-img img{
+    min-height: 25px;
+    width: 200px;
+    /* align-content: center; */
+    /* justify-self:center ; */
+}
+.S1pro3-head-2 h1{
+     align-content: center;
+    justify-self:center ;
+}

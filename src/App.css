@@ -107,8 +107,12 @@ h1{
  .f-img{
     max-width: 80%;
     margin: 0 auto;
+    /* margin-top: 20px; */
  }
- 
+ .f-img-h{
+   margin-top: 20px;
+   padding-top: 100px;
+ }
  .feature .img{
     width: 400px;
     height: 400px;
@@ -232,6 +236,7 @@ h1{
   .ola-plant{
    width: 80%;
    margin: 0 auto;
+   padding-top: 150px;
   }
   .ola-plant p::after{
    content: url(https://cdn.olaelectric.com/ev-discovery-platform/images/green_arrow_v1.svg);
@@ -244,6 +249,7 @@ h1{
    font-size: 50px;
    font-weight: lighter;
    margin-bottom: 10px;
+   margin-top: 10px;
   }
   .ola-plant h4{
    font-size: 18px;
@@ -254,8 +260,9 @@ h1{
   .ola-plant p{
    /* font-size: 50px; */
    font-weight: lighter;
-   margin: 15px;
+   margin-top: 15px;
    color: green;
+   margin-bottom: 15px;
   }
 
   .ola-factories{
@@ -274,10 +281,10 @@ h1{
    margin-top: 10px;
   }
   .ola-factories-1 h2,p{
-   margin: 10px;
+   margin-top: 10px;
   }
   .ola-factories-2 h2,p{
-   margin: 10px;
+   margin-top: 10px;
   }
 
   .ola-factories-2{

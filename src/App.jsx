@@ -193,12 +193,7 @@ const Home = () => {
                                                                 onClick={() => navigate(item.onclick)}
                                                         />
                                                 </>
-
-
-
-
                                         })}
-                                        {/* <h5>*Price for single battery option</h5> */}
                                         {/* <CardP image='https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_gig_product_web_image.webp'
                                                 Title='https://cdn.olaelectric.com/sites/evdp/pages/gig/ola_gig_logo_v2.svg'
                                                 Text="112km Range | 25 kmph top speed | Single portable battery" Text2="Introductory price"
