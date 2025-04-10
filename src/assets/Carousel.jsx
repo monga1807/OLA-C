@@ -1,5 +1,5 @@
 import Slide1 from './Hslider/Slide-1';
-import Slide2 from './Hslider/slide-2';
+import Slide2 from './Hslider/Slide-2';
 import Slide3 from './Hslider/Slide-3';
 import Slide4 from './Hslider/Slide-4';
 import Slide5 from './Hslider/Slide-5';
