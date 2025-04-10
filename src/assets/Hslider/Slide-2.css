@@ -14,7 +14,7 @@
     padding: 20px;
     color: white;
 }
-.S1pro3-head{
+.Slide2-head{
     font-size: 30px;
     align-content: center;
     justify-self: center;
@@ -61,7 +61,7 @@ border-width:0px;
     border-width:0px;
 }
 
-.S1pro3-buttons{
+.Slide2-buttons{
     /* position: absolute; */
     bottom: 100px;
     align-content: center;
@@ -71,17 +71,17 @@ border-width:0px;
     margin-top: 250px;
 }
 
-.S1pro3-img{
+.Slide2-img{
     align-content: center;
     justify-self: center;
 }
-.S1pro3-img img{
+.Slide2-img img{
     min-height: 25px;
     width: 200px;
     /* align-content: center; */
     /* justify-self:center ; */
 }
-.S1pro3-head-2 h1{
+.Slide2-head-2 h1{
      align-content: center;
     justify-self:center ;
 }
